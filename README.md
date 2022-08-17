@@ -1,19 +1,17 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
+# Elijah (@flowscience)
 
-# Name (@github_id)
-
-optional tag-line
+Cannabis Genome DAO
 
 <img align="right" width="250" src="avatar.png">
 
-## Bio
+Life is life. Just keep building.
 
 optional bio
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/flowscience)
+* [twitter](https://twitter.com/flow_science)
+* [linkedin](https://www.linkedin.com/in/elijahspina)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
