@@ -6,8 +6,6 @@ Cannabis Genome DAO
 
 Life is life. Just keep building.
 
-optional bio
-
 ## Identities
 * [github](https://github.com/flowscience)
 * [twitter](https://twitter.com/flow_science)
