@@ -7,6 +7,7 @@ Cannabis Genome DAO
 Life is life. Just keep building.
 
 ## Identities
+* [cannabis genome dao](https://cannabisgeno.me)
 * [github](https://github.com/flowscience)
 * [twitter](https://twitter.com/flow_science)
 * [linkedin](https://www.linkedin.com/in/elijahspina)
